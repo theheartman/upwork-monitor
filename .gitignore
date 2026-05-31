@@ -1,0 +1,7 @@
+.env
+db/jobs.db
+monitor.log
+jobs_export.csv
+__pycache__/
+*.pyc
+.DS_Store
